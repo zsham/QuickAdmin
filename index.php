@@ -79,7 +79,7 @@
     </div>
   </div>
         <footer class="bg-light py-5">
-            <div class="container"><div class="small text-center text-muted">Faculty Booking Mangement System - FBMS | <a href="https://hep.unisel.edu.my/pusat-jaringan-komuniti/" target="_blank">FADRUL AZMAN BIN ANUAR</a></div></div>
+            <div class="container"><div class="small text-center text-muted">Faculty Booking Mangement System - FBMS | <a href="" target="_blank">Anonymous</a></div></div>
         </footer>
         
        <?php include('footer.php') ?>
